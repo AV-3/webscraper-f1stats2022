@@ -6,12 +6,7 @@ The program uses python and the pandas library.
 
 The data includes:
 
-Overall Season results
-Driver standings
-Constructor standings
-Race results
-Qualifying results
-Fastest laps
+Overall season results, Driver/Constructor standings, Race/Qualifying results, and Fastest Laps.
 
 Feel free to use the csv files withn the 'F1 CSV Folder'.
 
