@@ -1,0 +1,427 @@
+Pos,Driver,Car,Lap,Time,Avg Speed
+1,Charles  Leclerc  LEC,Ferrari,51,1:34.570,206.018
+2,Max  Verstappen  VER,Red Bull Racing RBPT,51,1:35.440,204.14
+3,Carlos  Sainz  SAI,Ferrari,52,1:35.740,203.501
+4,Sergio  Perez  PER,Red Bull Racing RBPT,52,1:36.089,202.762
+5,Lewis  Hamilton  HAM,Mercedes,53,1:36.228,202.469
+6,George  Russell  RUS,Mercedes,56,1:36.302,202.313
+7,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,53,1:36.599,201.691
+8,Kevin  Magnussen  MAG,Haas Ferrari,53,1:36.623,201.641
+9,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,39,1:36.685,201.512
+10,Fernando  Alonso  ALO,Alpine Renault,44,1:36.733,201.412
+11,Mick  Schumacher  MSC,Haas Ferrari,37,1:36.956,200.948
+12,Lando  Norris  NOR,McLaren Mercedes,51,1:36.988,200.882
+13,Yuki  Tsunoda  TSU,AlphaTauri RBPT,53,1:37.104,200.642
+14,Esteban  Ocon  OCO,Alpine Renault,53,1:37.110,200.63
+15,Lance  Stroll  STR,Aston Martin Aramco Mercedes,49,1:37.146,200.555
+16,Daniel  Ricciardo  RIC,McLaren Mercedes,50,1:37.261,200.318
+17,Pierre  Gasly  GAS,AlphaTauri RBPT,34,1:37.324,200.189
+18,Alexander  Albon  ALB,Williams Mercedes,50,1:37.355,200.125
+19,Nico  Hulkenberg  HUL,Aston Martin Aramco Mercedes,49,1:38.201,198.401
+20,Nicholas  Latifi  LAT,Williams Mercedes,51,1:38.251,198.3
+1,Charles  Leclerc  LEC,Ferrari,48,1:31.634,242.556
+2,Max  Verstappen  VER,Red Bull Racing RBPT,50,1:31.772,242.191
+3,Carlos  Sainz  SAI,Ferrari,48,1:31.905,241.841
+4,Sergio  Perez  PER,Red Bull Racing RBPT,46,1:32.042,241.481
+5,Lando  Norris  NOR,McLaren Mercedes,46,1:32.753,239.629
+6,Kevin  Magnussen  MAG,Haas Ferrari,48,1:32.779,239.562
+7,George  Russell  RUS,Mercedes,43,1:32.821,239.454
+8,Lewis  Hamilton  HAM,Mercedes,47,1:32.997,239.001
+9,Esteban  Ocon  OCO,Alpine Renault,46,1:33.103,238.729
+10,Pierre  Gasly  GAS,AlphaTauri RBPT,42,1:33.468,237.796
+11,Nico  Hulkenberg  HUL,Aston Martin Aramco Mercedes,47,1:33.651,237.332
+12,Fernando  Alonso  ALO,Alpine Renault,33,1:33.831,236.876
+13,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,45,1:33.924,236.642
+14,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,31,1:33.979,236.503
+15,Alexander  Albon  ALB,Williams Mercedes,46,1:34.368,235.528
+16,Lance  Stroll  STR,Aston Martin Aramco Mercedes,46,1:34.446,235.334
+17,Daniel  Ricciardo  RIC,McLaren Mercedes,34,1:34.487,235.232
+18,Nicholas  Latifi  LAT,Williams Mercedes,9,1:37.530,227.892
+1,Charles  Leclerc  LEC,Ferrari,58,1:20.260,236.74
+2,Fernando  Alonso  ALO,Alpine Renault,57,1:20.846,235.024
+3,Sergio  Perez  PER,Red Bull Racing RBPT,58,1:21.094,234.305
+4,George  Russell  RUS,Mercedes,53,1:21.495,233.152
+5,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,54,1:21.651,232.707
+6,Max  Verstappen  VER,Red Bull Racing RBPT,37,1:21.677,232.633
+7,Lewis  Hamilton  HAM,Mercedes,51,1:21.886,232.039
+8,Lando  Norris  NOR,McLaren Mercedes,55,1:22.248,231.018
+9,Daniel  Ricciardo  RIC,McLaren Mercedes,54,1:22.451,230.449
+10,Esteban  Ocon  OCO,Alpine Renault,58,1:22.469,230.399
+11,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,55,1:22.541,230.198
+12,Alexander  Albon  ALB,Williams Mercedes,54,1:22.589,230.064
+13,Pierre  Gasly  GAS,AlphaTauri RBPT,52,1:22.731,229.669
+14,Mick  Schumacher  MSC,Haas Ferrari,55,1:23.006,228.908
+15,Kevin  Magnussen  MAG,Haas Ferrari,44,1:23.071,228.729
+16,Yuki  Tsunoda  TSU,AlphaTauri RBPT,56,1:23.342,227.985
+17,Lance  Stroll  STR,Aston Martin Aramco Mercedes,48,1:23.592,227.304
+18,Nicholas  Latifi  LAT,Williams Mercedes,49,1:23.882,226.518
+19,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,17,1:25.189,223.042
+1,Max  Verstappen  VER,Red Bull Racing RBPT,55,1:18.446,225.281
+2,Charles  Leclerc  LEC,Ferrari,63,1:18.574,224.914
+3,Sergio  Perez  PER,Red Bull Racing RBPT,52,1:18.949,223.845
+4,Mick  Schumacher  MSC,Haas Ferrari,55,1:18.999,223.704
+5,Yuki  Tsunoda  TSU,AlphaTauri RBPT,61,1:20.544,219.412
+6,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,43,1:20.758,218.831
+7,Lando  Norris  NOR,McLaren Mercedes,61,1:20.903,218.439
+8,George  Russell  RUS,Mercedes,57,1:20.962,218.28
+9,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,47,1:21.211,217.61
+10,Kevin  Magnussen  MAG,Haas Ferrari,61,1:21.238,217.538
+11,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,61,1:21.286,217.41
+12,Nicholas  Latifi  LAT,Williams Mercedes,62,1:21.338,217.271
+13,Lewis  Hamilton  HAM,Mercedes,50,1:21.419,217.054
+14,Daniel  Ricciardo  RIC,McLaren Mercedes,61,1:21.577,216.634
+15,Pierre  Gasly  GAS,AlphaTauri RBPT,34,1:21.713,216.274
+16,Lance  Stroll  STR,Aston Martin Aramco Mercedes,46,1:21.750,216.176
+17,Alexander  Albon  ALB,Williams Mercedes,61,1:21.757,216.157
+18,Esteban  Ocon  OCO,Alpine Renault,37,1:21.887,215.814
+19,Fernando  Alonso  ALO,Alpine Renault,5,1:39.685,177.282
+1,Max  Verstappen  VER,Red Bull Racing RBPT,54,1:31.361,213.255
+2,Charles  Leclerc  LEC,Ferrari,53,1:31.488,212.959
+3,Carlos  Sainz  SAI,Ferrari,56,1:31.790,212.258
+4,Sergio  Perez  PER,Red Bull Racing RBPT,54,1:31.819,212.191
+5,George  Russell  RUS,Mercedes,56,1:32.195,211.325
+6,Mick  Schumacher  MSC,Haas Ferrari,57,1:32.528,210.565
+7,Lewis  Hamilton  HAM,Mercedes,55,1:32.941,209.629
+8,Yuki  Tsunoda  TSU,AlphaTauri RBPT,55,1:33.035,209.417
+9,Esteban  Ocon  OCO,Alpine Renault,56,1:33.163,209.13
+10,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,56,1:33.184,209.083
+11,Daniel  Ricciardo  RIC,McLaren Mercedes,56,1:33.265,208.901
+12,Lance  Stroll  STR,Aston Martin Aramco Mercedes,52,1:33.312,208.796
+13,Fernando  Alonso  ALO,Alpine Renault,53,1:33.331,208.753
+14,Lando  Norris  NOR,McLaren Mercedes,37,1:33.411,208.575
+15,Alexander  Albon  ALB,Williams Mercedes,57,1:33.447,208.494
+16,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,50,1:33.479,208.423
+17,Kevin  Magnussen  MAG,Haas Ferrari,52,1:33.511,208.351
+18,Nicholas  Latifi  LAT,Williams Mercedes,53,1:34.169,206.896
+19,Pierre  Gasly  GAS,AlphaTauri RBPT,38,1:34.487,206.199
+20,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,4,1:35.731,203.52
+1,Sergio  Perez  PER,Red Bull Racing RBPT,55,1:24.108,200.099
+2,Lewis  Hamilton  HAM,Mercedes,51,1:24.253,199.755
+3,George  Russell  RUS,Mercedes,53,1:24.636,198.851
+4,Max  Verstappen  VER,Red Bull Racing RBPT,46,1:25.456,196.943
+5,Lando  Norris  NOR,McLaren Mercedes,53,1:25.619,196.568
+6,Esteban  Ocon  OCO,Alpine Renault,54,1:25.935,195.845
+7,Carlos  Sainz  SAI,Ferrari,49,1:25.985,195.731
+8,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,36,1:26.395,194.802
+9,Fernando  Alonso  ALO,Alpine Renault,56,1:26.599,194.344
+10,Yuki  Tsunoda  TSU,AlphaTauri RBPT,59,1:26.828,193.831
+11,Lance  Stroll  STR,Aston Martin Aramco Mercedes,54,1:26.876,193.724
+12,Pierre  Gasly  GAS,AlphaTauri RBPT,51,1:26.987,193.477
+13,Charles  Leclerc  LEC,Ferrari,25,1:27.030,193.381
+14,Nicholas  Latifi  LAT,Williams Mercedes,52,1:27.246,192.902
+15,Daniel  Ricciardo  RIC,McLaren Mercedes,54,1:27.285,192.816
+16,Mick  Schumacher  MSC,Haas Ferrari,32,1:27.447,192.459
+17,Kevin  Magnussen  MAG,Haas Ferrari,3,1:27.537,192.261
+18,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,59,1:27.629,192.059
+19,Alexander  Albon  ALB,Williams Mercedes,56,1:28.281,190.641
+20,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,12,1:28.415,190.352
+1,Lando  Norris  NOR,McLaren Mercedes,55,1:14.693,160.834
+2,Yuki  Tsunoda  TSU,AlphaTauri RBPT,61,1:15.334,159.465
+3,Fernando  Alonso  ALO,Alpine Renault,50,1:15.882,158.314
+4,Sergio  Perez  PER,Red Bull Racing RBPT,46,1:16.028,158.01
+5,Max  Verstappen  VER,Red Bull Racing RBPT,47,1:16.052,157.96
+6,Charles  Leclerc  LEC,Ferrari,46,1:16.249,157.552
+7,Carlos  Sainz  SAI,Ferrari,47,1:16.421,157.197
+8,George  Russell  RUS,Mercedes,42,1:16.830,156.36
+9,Lewis  Hamilton  HAM,Mercedes,51,1:17.203,155.605
+10,Pierre  Gasly  GAS,AlphaTauri RBPT,61,1:17.344,155.321
+11,Daniel  Ricciardo  RIC,McLaren Mercedes,59,1:17.532,154.945
+12,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,54,1:17.558,154.893
+13,Esteban  Ocon  OCO,Alpine Renault,50,1:17.571,154.867
+14,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,57,1:17.600,154.809
+15,Lance  Stroll  STR,Aston Martin Aramco Mercedes,56,1:17.672,154.665
+16,Alexander  Albon  ALB,Williams Mercedes,40,1:18.023,153.969
+17,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,52,1:18.200,153.621
+18,Nicholas  Latifi  LAT,Williams Mercedes,43,1:18.579,152.88
+19,Mick  Schumacher  MSC,Haas Ferrari,24,1:24.778,141.701
+20,Kevin  Magnussen  MAG,Haas Ferrari,18,1:33.754,128.135
+1,Sergio  Perez  PER,Red Bull Racing RBPT,36,1:46.046,203.787
+2,Max  Verstappen  VER,Red Bull Racing RBPT,50,1:46.050,203.779
+3,Lewis  Hamilton  HAM,Mercedes,39,1:47.044,201.887
+4,George  Russell  RUS,Mercedes,42,1:47.177,201.636
+5,Yuki  Tsunoda  TSU,AlphaTauri RBPT,42,1:47.523,200.987
+6,Charles  Leclerc  LEC,Ferrari,13,1:47.531,200.972
+7,Alexander  Albon  ALB,Williams Mercedes,48,1:47.966,200.163
+8,Fernando  Alonso  ALO,Alpine Renault,49,1:47.989,200.12
+9,Lando  Norris  NOR,McLaren Mercedes,37,1:47.997,200.105
+10,Lance  Stroll  STR,Aston Martin Aramco Mercedes,38,1:48.038,200.029
+11,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,42,1:48.179,199.768
+12,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,41,1:48.206,199.719
+13,Daniel  Ricciardo  RIC,McLaren Mercedes,44,1:48.276,199.589
+14,Esteban  Ocon  OCO,Alpine Renault,36,1:48.297,199.551
+15,Mick  Schumacher  MSC,Haas Ferrari,40,1:48.410,199.343
+16,Pierre  Gasly  GAS,AlphaTauri RBPT,39,1:48.519,199.143
+17,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,12,1:48.723,198.769
+18,Kevin  Magnussen  MAG,Haas Ferrari,12,1:48.789,198.648
+19,Carlos  Sainz  SAI,Ferrari,3,1:48.978,198.304
+20,Nicholas  Latifi  LAT,Williams Mercedes,37,1:49.583,197.209
+1,Carlos  Sainz  SAI,Ferrari,63,1:15.749,207.258
+2,Max  Verstappen  VER,Red Bull Racing RBPT,64,1:15.839,207.012
+3,Charles  Leclerc  LEC,Ferrari,62,1:15.901,206.843
+4,Lewis  Hamilton  HAM,Mercedes,69,1:16.167,206.12
+5,George  Russell  RUS,Mercedes,63,1:16.418,205.443
+6,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,63,1:16.578,205.014
+7,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,60,1:16.927,204.084
+8,Fernando  Alonso  ALO,Alpine Renault,64,1:17.010,203.864
+9,Esteban  Ocon  OCO,Alpine Renault,62,1:17.110,203.6
+10,Lance  Stroll  STR,Aston Martin Aramco Mercedes,64,1:17.421,202.782
+11,Lando  Norris  NOR,McLaren Mercedes,63,1:17.495,202.588
+12,Pierre  Gasly  GAS,AlphaTauri RBPT,60,1:17.810,201.768
+13,Daniel  Ricciardo  RIC,McLaren Mercedes,59,1:17.932,201.452
+14,Alexander  Albon  ALB,Williams Mercedes,59,1:17.951,201.403
+15,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,63,1:17.956,201.39
+16,Kevin  Magnussen  MAG,Haas Ferrari,11,1:18.046,201.158
+17,Yuki  Tsunoda  TSU,AlphaTauri RBPT,15,1:18.309,200.482
+18,Nicholas  Latifi  LAT,Williams Mercedes,61,1:18.540,199.893
+19,Sergio  Perez  PER,Red Bull Racing RBPT,7,1:18.844,199.122
+20,Mick  Schumacher  MSC,Haas Ferrari,13,1:18.967,198.812
+1,Lewis  Hamilton  HAM,Mercedes,52,1:30.510,234.312
+2,Carlos  Sainz  SAI,Ferrari,44,1:30.813,233.53
+3,Sergio  Perez  PER,Red Bull Racing RBPT,47,1:30.937,233.212
+4,Charles  Leclerc  LEC,Ferrari,52,1:31.282,232.33
+5,Fernando  Alonso  ALO,Alpine Renault,47,1:31.609,231.501
+6,Lando  Norris  NOR,McLaren Mercedes,47,1:31.645,231.41
+7,Mick  Schumacher  MSC,Haas Ferrari,48,1:32.109,230.244
+8,Max  Verstappen  VER,Red Bull Racing RBPT,44,1:32.354,229.633
+9,Lance  Stroll  STR,Aston Martin Aramco Mercedes,52,1:32.379,229.571
+10,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,52,1:32.471,229.343
+11,Daniel  Ricciardo  RIC,McLaren Mercedes,34,1:32.644,228.914
+12,Kevin  Magnussen  MAG,Haas Ferrari,52,1:32.661,228.872
+13,Nicholas  Latifi  LAT,Williams Mercedes,48,1:33.286,227.339
+14,Esteban  Ocon  OCO,Alpine Renault,37,1:33.537,226.729
+15,Yuki  Tsunoda  TSU,AlphaTauri RBPT,51,1:33.832,226.016
+16,Pierre  Gasly  GAS,AlphaTauri RBPT,18,1:34.614,224.148
+17,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,19,1:35.103,222.996
+1,Max  Verstappen  VER,Red Bull Racing RBPT,62,1:07.275,231.063
+2,Charles  Leclerc  LEC,Ferrari,62,1:07.583,230.01
+3,Fernando  Alonso  ALO,Alpine Renault,62,1:08.558,226.739
+4,Carlos  Sainz  SAI,Ferrari,55,1:08.649,226.438
+5,Lewis  Hamilton  HAM,Mercedes,63,1:09.000,225.286
+6,George  Russell  RUS,Mercedes,61,1:09.075,225.042
+7,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,61,1:09.266,224.421
+8,Lando  Norris  NOR,McLaren Mercedes,62,1:09.304,224.298
+9,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,50,1:09.380,224.053
+10,Esteban  Ocon  OCO,Alpine Renault,62,1:09.559,223.476
+11,Mick  Schumacher  MSC,Haas Ferrari,50,1:09.625,223.264
+12,Alexander  Albon  ALB,Williams Mercedes,60,1:09.669,223.123
+13,Daniel  Ricciardo  RIC,McLaren Mercedes,61,1:09.924,222.309
+14,Kevin  Magnussen  MAG,Haas Ferrari,61,1:09.938,222.265
+15,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,62,1:10.001,222.065
+16,Yuki  Tsunoda  TSU,AlphaTauri RBPT,62,1:10.023,221.995
+17,Lance  Stroll  STR,Aston Martin Aramco Mercedes,64,1:10.048,221.916
+18,Pierre  Gasly  GAS,AlphaTauri RBPT,61,1:10.104,221.739
+19,Nicholas  Latifi  LAT,Williams Mercedes,14,1:10.890,219.28
+20,Sergio  Perez  PER,Red Bull Racing RBPT,5,1:11.843,216.371
+1,Carlos  Sainz  SAI,Ferrari,51,1:35.781,219.575
+2,Max  Verstappen  VER,Red Bull Racing RBPT,30,1:37.491,215.724
+3,George  Russell  RUS,Mercedes,51,1:37.548,215.598
+4,Lewis  Hamilton  HAM,Mercedes,30,1:37.668,215.333
+5,Sergio  Perez  PER,Red Bull Racing RBPT,45,1:37.780,215.086
+6,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,52,1:37.963,214.685
+7,Charles  Leclerc  LEC,Ferrari,4,1:38.088,214.411
+8,Fernando  Alonso  ALO,Alpine Renault,53,1:38.160,214.254
+9,Esteban  Ocon  OCO,Alpine Renault,53,1:38.684,213.116
+10,Pierre  Gasly  GAS,AlphaTauri RBPT,53,1:38.786,212.896
+11,Lando  Norris  NOR,McLaren Mercedes,43,1:39.037,212.356
+12,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,43,1:39.044,212.341
+13,Mick  Schumacher  MSC,Haas Ferrari,48,1:39.068,212.29
+14,Daniel  Ricciardo  RIC,McLaren Mercedes,27,1:39.133,212.151
+15,Lance  Stroll  STR,Aston Martin Aramco Mercedes,52,1:39.185,212.04
+16,Alexander  Albon  ALB,Williams Mercedes,53,1:39.199,212.01
+17,Kevin  Magnussen  MAG,Haas Ferrari,11,1:39.265,211.869
+18,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,25,1:39.368,211.649
+19,Nicholas  Latifi  LAT,Williams Mercedes,40,1:39.650,211.05
+20,Yuki  Tsunoda  TSU,AlphaTauri RBPT,4,1:40.216,209.858
+1,Lewis  Hamilton  HAM,Mercedes,57,1:21.386,193.787
+2,Charles  Leclerc  LEC,Ferrari,57,1:21.622,193.227
+3,Sergio  Perez  PER,Red Bull Racing RBPT,44,1:21.940,192.477
+4,Carlos  Sainz  SAI,Ferrari,51,1:22.000,192.336
+5,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,58,1:22.029,192.268
+6,Max  Verstappen  VER,Red Bull Racing RBPT,45,1:22.126,192.041
+7,Lance  Stroll  STR,Aston Martin Aramco Mercedes,51,1:22.437,191.317
+8,Nicholas  Latifi  LAT,Williams Mercedes,60,1:22.478,191.221
+9,George  Russell  RUS,Mercedes,57,1:22.766,190.556
+10,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,51,1:22.824,190.423
+11,Lando  Norris  NOR,McLaren Mercedes,47,1:23.043,189.92
+12,Alexander  Albon  ALB,Williams Mercedes,43,1:23.047,189.911
+13,Mick  Schumacher  MSC,Haas Ferrari,50,1:23.151,189.674
+14,Pierre  Gasly  GAS,AlphaTauri RBPT,58,1:23.199,189.564
+15,Kevin  Magnussen  MAG,Haas Ferrari,37,1:23.511,188.856
+16,Yuki  Tsunoda  TSU,AlphaTauri RBPT,58,1:23.538,188.795
+17,Daniel  Ricciardo  RIC,McLaren Mercedes,63,1:23.654,188.533
+18,Fernando  Alonso  ALO,Alpine Renault,47,1:23.979,187.804
+19,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,60,1:24.002,187.752
+20,Esteban  Ocon  OCO,Alpine Renault,60,1:24.149,187.424
+1,Max  Verstappen  VER,Red Bull Racing RBPT,32,1:49.354,230.575
+2,Charles  Leclerc  LEC,Ferrari,44,1:49.984,229.255
+3,Sergio  Perez  PER,Red Bull Racing RBPT,29,1:50.764,227.64
+4,George  Russell  RUS,Mercedes,31,1:50.793,227.581
+5,Lando  Norris  NOR,McLaren Mercedes,31,1:51.678,225.777
+6,Esteban  Ocon  OCO,Alpine Renault,36,1:51.717,225.698
+7,Carlos  Sainz  SAI,Ferrari,32,1:51.977,225.174
+8,Nicholas  Latifi  LAT,Williams Mercedes,38,1:52.256,224.615
+9,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,30,1:52.317,224.493
+10,Yuki  Tsunoda  TSU,AlphaTauri RBPT,32,1:52.436,224.255
+11,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,40,1:52.515,224.098
+12,Mick  Schumacher  MSC,Haas Ferrari,35,1:52.646,223.837
+13,Fernando  Alonso  ALO,Alpine Renault,35,1:52.868,223.397
+14,Lance  Stroll  STR,Aston Martin Aramco Mercedes,29,1:52.880,223.373
+15,Pierre  Gasly  GAS,AlphaTauri RBPT,24,1:53.002,223.132
+16,Alexander  Albon  ALB,Williams Mercedes,28,1:53.055,223.027
+17,Daniel  Ricciardo  RIC,McLaren Mercedes,34,1:53.080,222.978
+18,Kevin  Magnussen  MAG,Haas Ferrari,29,1:53.332,222.482
+1,Max  Verstappen  VER,Red Bull Racing RBPT,62,1:13.652,208.173
+2,George  Russell  RUS,Mercedes,72,1:13.671,208.119
+3,Lewis  Hamilton  HAM,Mercedes,54,1:13.854,207.604
+4,Fernando  Alonso  ALO,Alpine Renault,51,1:14.144,206.792
+5,Sergio  Perez  PER,Red Bull Racing RBPT,63,1:14.404,206.069
+6,Charles  Leclerc  LEC,Ferrari,62,1:14.413,206.044
+7,Carlos  Sainz  SAI,Ferrari,63,1:14.643,205.409
+8,Lando  Norris  NOR,McLaren Mercedes,63,1:14.706,205.236
+9,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,50,1:14.862,204.808
+10,Lance  Stroll  STR,Aston Martin Aramco Mercedes,65,1:15.043,204.314
+11,Esteban  Ocon  OCO,Alpine Renault,64,1:15.084,204.203
+12,Pierre  Gasly  GAS,AlphaTauri RBPT,65,1:15.165,203.983
+13,Mick  Schumacher  MSC,Haas Ferrari,51,1:15.233,203.798
+14,Kevin  Magnussen  MAG,Haas Ferrari,53,1:15.369,203.431
+15,Alexander  Albon  ALB,Williams Mercedes,65,1:15.534,202.986
+16,Daniel  Ricciardo  RIC,McLaren Mercedes,52,1:15.577,202.871
+17,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,63,1:15.940,201.901
+18,Nicholas  Latifi  LAT,Williams Mercedes,62,1:16.066,201.567
+19,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,51,1:16.844,199.526
+20,Yuki  Tsunoda  TSU,AlphaTauri RBPT,16,1:17.138,198.765
+1,Sergio  Perez  PER,Red Bull Racing RBPT,46,1:24.030,248.182
+2,Charles  Leclerc  LEC,Ferrari,38,1:24.336,247.282
+3,Lewis  Hamilton  HAM,Mercedes,43,1:24.434,246.995
+4,Carlos  Sainz  SAI,Ferrari,41,1:24.446,246.96
+5,Lando  Norris  NOR,McLaren Mercedes,43,1:24.718,246.167
+6,Max  Verstappen  VER,Red Bull Racing RBPT,38,1:24.745,246.088
+7,George  Russell  RUS,Mercedes,40,1:25.288,244.522
+8,Mick  Schumacher  MSC,Haas Ferrari,43,1:25.298,244.493
+9,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,45,1:25.706,243.329
+10,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,41,1:26.361,241.484
+11,Esteban  Ocon  OCO,Alpine Renault,37,1:26.593,240.837
+12,Daniel  Ricciardo  RIC,McLaren Mercedes,39,1:26.603,240.809
+13,Nyck  De Vries  DEV,Williams Mercedes,41,1:26.624,240.75
+14,Pierre  Gasly  GAS,AlphaTauri RBPT,30,1:26.718,240.489
+15,Nicholas  Latifi  LAT,Williams Mercedes,17,1:26.798,240.268
+16,Kevin  Magnussen  MAG,Haas Ferrari,37,1:26.798,240.268
+17,Yuki  Tsunoda  TSU,AlphaTauri RBPT,43,1:26.857,240.105
+18,Fernando  Alonso  ALO,Alpine Renault,7,1:27.203,239.152
+19,Lance  Stroll  STR,Aston Martin Aramco Mercedes,34,1:27.467,238.43
+20,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,4,1:27.501,238.337
+1,George  Russell  RUS,Mercedes,54,1:46.458,171.211
+2,Sergio  Perez  PER,Red Bull Racing RBPT,57,1:48.165,168.509
+3,Carlos  Sainz  SAI,Ferrari,59,1:48.414,168.122
+4,Charles  Leclerc  LEC,Ferrari,54,1:48.753,167.598
+5,Max  Verstappen  VER,Red Bull Racing RBPT,52,1:49.142,167.0
+6,Lando  Norris  NOR,McLaren Mercedes,56,1:49.212,166.893
+7,Lance  Stroll  STR,Aston Martin Aramco Mercedes,58,1:50.283,165.272
+8,Mick  Schumacher  MSC,Haas Ferrari,58,1:50.290,165.262
+9,Pierre  Gasly  GAS,AlphaTauri RBPT,56,1:50.569,164.845
+10,Lewis  Hamilton  HAM,Mercedes,58,1:50.622,164.766
+11,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,58,1:50.669,164.696
+12,Daniel  Ricciardo  RIC,McLaren Mercedes,57,1:51.006,164.196
+13,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,52,1:51.864,162.937
+14,Kevin  Magnussen  MAG,Haas Ferrari,59,1:52.067,162.641
+15,Yuki  Tsunoda  TSU,AlphaTauri RBPT,32,1:58.716,153.532
+16,Fernando  Alonso  ALO,Alpine Renault,19,2:00.463,151.306
+17,Esteban  Ocon  OCO,Alpine Renault,24,2:01.105,150.504
+18,Alexander  Albon  ALB,Williams Mercedes,24,2:02.121,149.251
+19,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,5,2:05.556,145.168
+20,Nicholas  Latifi  LAT,Williams Mercedes,5,2:05.585,145.135
+1,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,20,1:44.411,200.22
+2,Fernando  Alonso  ALO,Alpine Renault,25,1:44.412,200.218
+3,Charles  Leclerc  LEC,Ferrari,10,1:44.489,200.07
+4,Max  Verstappen  VER,Red Bull Racing RBPT,10,1:44.911,199.266
+5,Lance  Stroll  STR,Aston Martin Aramco Mercedes,21,1:45.205,198.709
+6,Pierre  Gasly  GAS,AlphaTauri RBPT,22,1:45.387,198.366
+7,Lewis  Hamilton  HAM,Mercedes,11,1:45.530,198.097
+8,Yuki  Tsunoda  TSU,AlphaTauri RBPT,22,1:45.893,197.418
+9,Sergio  Perez  PER,Red Bull Racing RBPT,11,1:46.120,196.995
+10,Mick  Schumacher  MSC,Haas Ferrari,13,1:46.545,196.21
+11,Esteban  Ocon  OCO,Alpine Renault,11,1:46.559,196.184
+12,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,13,1:46.964,195.441
+13,George  Russell  RUS,Mercedes,21,1:47.004,195.368
+14,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,11,1:47.820,193.889
+15,Daniel  Ricciardo  RIC,McLaren Mercedes,11,1:47.843,193.848
+16,Kevin  Magnussen  MAG,Haas Ferrari,10,1:48.072,193.437
+17,Lando  Norris  NOR,McLaren Mercedes,8,1:48.175,193.253
+18,Nicholas  Latifi  LAT,Williams Mercedes,12,1:48.371,192.904
+1,George  Russell  RUS,Mercedes,56,1:38.788,200.902
+2,Max  Verstappen  VER,Red Bull Racing RBPT,37,1:39.541,199.383
+3,Sergio  Perez  PER,Red Bull Racing RBPT,44,1:39.563,199.339
+4,Charles  Leclerc  LEC,Ferrari,37,1:39.731,199.003
+5,Lewis  Hamilton  HAM,Mercedes,45,1:39.830,198.805
+6,Esteban  Ocon  OCO,Alpine Renault,49,1:41.243,196.031
+7,Lando  Norris  NOR,McLaren Mercedes,49,1:41.322,195.878
+8,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,39,1:41.538,195.461
+9,Pierre  Gasly  GAS,AlphaTauri RBPT,55,1:41.674,195.2
+10,Fernando  Alonso  ALO,Alpine Renault,51,1:41.804,194.951
+11,Yuki  Tsunoda  TSU,AlphaTauri RBPT,36,1:42.206,194.184
+12,Mick  Schumacher  MSC,Haas Ferrari,55,1:42.320,193.967
+13,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,39,1:42.394,193.827
+14,Daniel  Ricciardo  RIC,McLaren Mercedes,55,1:42.420,193.778
+15,Alexander  Albon  ALB,Williams Mercedes,46,1:42.471,193.682
+16,Kevin  Magnussen  MAG,Haas Ferrari,35,1:42.546,193.54
+17,Lance  Stroll  STR,Aston Martin Aramco Mercedes,3,1:43.080,192.537
+18,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,4,1:43.391,191.958
+19,Nicholas  Latifi  LAT,Williams Mercedes,54,1:43.485,191.784
+1,George  Russell  RUS,Mercedes,71,1:20.153,193.31
+2,Sergio  Perez  PER,Red Bull Racing RBPT,30,1:21.775,189.476
+3,Daniel  Ricciardo  RIC,McLaren Mercedes,48,1:22.022,188.905
+4,Max  Verstappen  VER,Red Bull Racing RBPT,36,1:22.046,188.85
+5,Lewis  Hamilton  HAM,Mercedes,32,1:22.062,188.813
+6,Carlos  Sainz  SAI,Ferrari,32,1:22.199,188.498
+7,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,47,1:22.260,188.358
+8,Pierre  Gasly  GAS,AlphaTauri RBPT,42,1:22.277,188.319
+9,Lance  Stroll  STR,Aston Martin Aramco Mercedes,42,1:22.463,187.895
+10,Charles  Leclerc  LEC,Ferrari,48,1:22.603,187.576
+11,Fernando  Alonso  ALO,Alpine Renault,48,1:22.866,186.981
+12,Alexander  Albon  ALB,Williams Mercedes,48,1:22.914,186.873
+13,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,45,1:23.086,186.486
+14,Esteban  Ocon  OCO,Alpine Renault,48,1:23.279,186.054
+15,Kevin  Magnussen  MAG,Haas Ferrari,49,1:23.300,186.007
+16,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,43,1:23.363,185.866
+17,Lando  Norris  NOR,McLaren Mercedes,48,1:23.402,185.779
+18,Yuki  Tsunoda  TSU,AlphaTauri RBPT,48,1:23.403,185.777
+19,Mick  Schumacher  MSC,Haas Ferrari,30,1:23.641,185.248
+20,Nicholas  Latifi  LAT,Williams Mercedes,56,1:23.709,185.098
+1,George  Russell  RUS,Mercedes,61,1:13.785,210.237
+2,Lewis  Hamilton  HAM,Mercedes,63,1:13.942,209.791
+3,Carlos  Sainz  SAI,Ferrari,65,1:13.953,209.76
+4,Fernando  Alonso  ALO,Alpine Renault,62,1:14.164,209.163
+5,Max  Verstappen  VER,Red Bull Racing RBPT,64,1:14.195,209.076
+6,Charles  Leclerc  LEC,Ferrari,63,1:14.253,208.912
+7,Sergio  Perez  PER,Red Bull Racing RBPT,62,1:14.283,208.828
+8,Lance  Stroll  STR,Aston Martin Aramco Mercedes,50,1:14.831,207.299
+9,Esteban  Ocon  OCO,Alpine Renault,65,1:15.093,206.575
+10,Mick  Schumacher  MSC,Haas Ferrari,63,1:15.251,206.142
+11,Nicholas  Latifi  LAT,Williams Mercedes,59,1:15.327,205.934
+12,Pierre  Gasly  GAS,AlphaTauri RBPT,64,1:15.327,205.934
+13,Yuki  Tsunoda  TSU,AlphaTauri RBPT,63,1:15.508,205.44
+14,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,62,1:15.511,205.432
+15,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,64,1:15.549,205.328
+16,Alexander  Albon  ALB,Williams Mercedes,49,1:15.613,205.155
+17,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,64,1:15.802,204.643
+18,Lando  Norris  NOR,McLaren Mercedes,48,1:15.855,204.5
+1,Lando  Norris  NOR,McLaren Mercedes,44,1:28.391,215.085
+2,George  Russell  RUS,Mercedes,48,1:28.836,214.007
+3,Carlos  Sainz  SAI,Ferrari,50,1:28.879,213.904
+4,Sergio  Perez  PER,Red Bull Racing RBPT,52,1:28.972,213.68
+5,Esteban  Ocon  OCO,Alpine Renault,45,1:29.333,212.817
+6,Max  Verstappen  VER,Red Bull Racing RBPT,54,1:29.392,212.676
+7,Yuki  Tsunoda  TSU,AlphaTauri RBPT,40,1:29.489,212.446
+8,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,53,1:29.600,212.183
+9,Lance  Stroll  STR,Aston Martin Aramco Mercedes,42,1:29.620,212.135
+10,Charles  Leclerc  LEC,Ferrari,48,1:29.719,211.901
+11,Lewis  Hamilton  HAM,Mercedes,42,1:29.788,211.738
+12,Mick  Schumacher  MSC,Haas Ferrari,39,1:29.833,211.632
+13,Alexander  Albon  ALB,Williams Mercedes,40,1:29.939,211.383
+14,Nicholas  Latifi  LAT,Williams Mercedes,45,1:30.309,210.517
+15,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,35,1:30.312,210.51
+16,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,47,1:30.352,210.417
+17,Fernando  Alonso  ALO,Alpine Renault,24,1:30.579,209.889
+18,Daniel  Ricciardo  RIC,McLaren Mercedes,45,1:30.785,209.413
+19,Pierre  Gasly  GAS,AlphaTauri RBPT,16,1:31.081,208.732
+20,Kevin  Magnussen  MAG,Haas Ferrari,40,1:31.158,208.556

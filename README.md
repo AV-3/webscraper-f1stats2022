@@ -1,11 +1,17 @@
-WORK IN-PROGRESS
+Formula 1 2022 Season Statistics Webscraper
 
-Web Scraper for F1 Statistics by Alan Velez
+This program scrapes results and statistics from the official F1 results website https://www.formula1.com/en/results.html/2022/races.html and converts it to CSV files. 
 
-My first web scraper that will be utilized in the data collection of Formula One racing statistics to build a data visualization dashboard
-in order to clearly see trends.
+The program uses python and the pandas library.
 
+The data includes:
 
-Technologies: Python, Beautiful Soup, Selenium, Pandas, Jupyter
+Overall Season results
+Driver standings
+Constructor standings
+Race results
+Qualifying results
+Fastest laps
 
-Statistics gathered from: https://www.formula1.com/en/results.html
+Feel free to use the csv files withn the 'F1 CSV Folder'.
+
